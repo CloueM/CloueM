@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I am a passionate web developer and designer dedicated to building systems that matter. I love the puzzle of development—from mapping out site architecture to polishing the final UI—and collaborating with other creatives to engineer full-stack web solutions. For me, coding isn't just about the tech stack; it's about creating tools that genuinely help people in their everyday lives. When I'm not at my computer, you can usually find me deep into PC gaming or organizing my room to make it as aesthetic and cozy as possible. I believe a clear, well-designed space makes for clear, well-designed work.
+I am a passionate web developer and designer dedicated to building systems that matter. I love the puzzle of development—from mapping out site architecture to polishing the final UI—and collaborating with other creatives to engineer full-stack web solutions. For me, coding isn't just about the tech stack; it's about creating tools that genuinely help people in their everyday lives. When I'm not at my computer, you can usually find me deep into PC gaming or organizing my room to make it as aesthetic and cozy as possible. I believe a clear, well-designed space makes for clear, well-designed work..
 
 
 ## 🌐 Socials:
