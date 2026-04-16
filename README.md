@@ -1,5 +1,19 @@
 # Hi there
-
+<p>
+  I’m a front-end developer and web designer, but my foundation is actually in IT infrastructure.
+</p>
+<p>
+  From 2022 to 2024, I completed the Computer Information Technology (CIT) diploma at BCIT. It was a heavy, hands-on program focused on the backend of tech. I spent two years working directly with Linux servers, enterprise networking, databases, and Python. It taught me exactly how systems communicate under the hood.
+</p>
+<p>
+  However, I realized I really wanted to build the things people actually see and interact with. To make that switch, I completed the Front-End Web Developer Certificate, also at BCIT. That program allowed me to focus purely on the user-facing side of the web, spending my time strictly on React, JavaScript, advanced CSS, and modern web platforms like WordPress and Shopify.
+</p>
+<p>
+  Having both of these backgrounds completely changes how I work. Because of my IT diploma, I care just as much about how a codebase is organized, optimized, and deployed as I do about how a button feels on hover.
+</p>
+<p>
+  Today, my focus is on the front-end, designing clean UI in Figma, shipping production ready React apps, and developing high-performance web solutions, built with an understanding of how they run from the server to the screen.
+</p>
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cloue-macadangdang-365133240/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@clouemac.com) 
 
