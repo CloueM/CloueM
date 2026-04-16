@@ -14,6 +14,7 @@
 <p>
   Today, my focus is on the front-end, designing clean UI in Figma, shipping production ready React apps, and developing high-performance web solutions, built with an understanding of how they run from the server to the screen.
 </p>
+
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cloue-macadangdang-365133240/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@clouemac.com) 
 
