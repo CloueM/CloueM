@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Cloue Macadangdang</h1>
+<h1 align="center">Hi, I'm Cloue Macadangdang</h1>
 <h3 align="center">Hybrid Front-End Developer & Web Designer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=clouem&label=Profile%20views&color=0e75b6&style=flat-square" alt="clouem" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clouem&theme=radical&no-frame=true&margin-w=15" alt="clouem" /></a>
 </p>
 
 ### About Me
