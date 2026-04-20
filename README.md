@@ -4,8 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=0e75b6&label=%20&query=value&url=https%3A%2F%2Fkomarev.com%2Fghpvc%2F%3Fusername%3Dclouem%26format%3Djson&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48ZyBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjEuNSI+PHBhdGggZD0iTTIxLjU0NCAxMS4wNDVjLjMwNC40MjYuNDU2LjY0LjQ1Ni45NTVjMCAuMzE2LS4xNTIuNTI5LS40NTYuOTU1QzIwLjE3OCAxNC44NzEgMTYuNjg5IDE5IDEyIDE5Yy00LjY5IDAtOC4xNzgtNC4xMy05LjU0NC02LjA0NUMyLjE1MiAxMi41MjkgMiAxMi4zMTUgMiAxMmMwLS4zMTYuMTUyLS41MjkuNDU2LS45NTVDMy44MjIgOS4xMjkgNy4zMTEgNSAxMiA1YzQuNjkgMCA4LjE3OCA0LjEzIDkuNTQ0IDYuMDQ1WiIvPjxwYXRoIGQ9Ik0xNSAxMmEzIDMgMCAxIDAtNiAwYTMgMyAwIDAgMCA2IDBaIi8+PC9nPjwvc3ZnPg==" alt="views" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clouem&theme=radical&no-frame=true&margin-w=15" alt="clouem" /></a>
+  <img src="https://komarev.com/ghpvc/?username=clouem&label=%F0%9F%91%81%20views&color=0e75b6&style=flat-square" alt="clouem" />
 </p>
 
 ### About Me
