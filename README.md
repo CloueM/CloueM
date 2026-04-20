@@ -16,7 +16,7 @@
 </p>
 
 ## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cloue-macadangdang-365133240/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@clouemac.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cloue-macadangdang-365133240/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hello@kurowii.com) 
 
 # Tech Stack:
 
@@ -84,15 +84,3 @@
     </tr>
   </tbody>
 </table>
-
-### Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" />
-</div>
-
----
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=CloueM&icon=2&color=12" />
-  </a>
-</div>
