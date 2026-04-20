@@ -1,8 +1,10 @@
 <h1 align="center">Hi, I'm Cloue Macadangdang</h1>
-<h3 align="center">Hybrid Front-End Developer & Web Designer</h3>
+<p align="center">
+  <img src="profilebanner.jpg" alt="Cloue Macadangdang Banner" width="100%" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=clouem&label=Profile%20views&color=0e75b6&style=flat-square" alt="clouem" />
+  <img src="https://komarev.com/ghpvc/?username=clouem&label=%F0%9F%91%81%20views&color=0e75b6&style=flat-square" alt="clouem" />
 </p>
 
 ### About Me
@@ -67,9 +69,15 @@ I am a BCIT graduate with a dual background in **Computer Information Technology
 
 ### Connect with me:
 <p align="left">
-<a href="mailto:hello@kurowii.com"><img src="https://img.shields.io/badge/Email-hello%40kurowii.com-0e75b6?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/cloue-macadangdang/"><img src="https://img.shields.io/badge/LinkedIn-Cloue%20Macadangdang-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://kurowii.com/"><img src="https://img.shields.io/badge/Portfolio-kurowii.com-000000?style=flat-square&logo=firefox-browser&logoColor=white" /></a>
+<a href="mailto:hello@kurowii.com">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
+</a>
+<a href="https://www.linkedin.com/in/cloue-macadangdang/" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://kurowii.com/" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="Website" height="30" width="40" />
+</a>
 </p>
 
 <br />
