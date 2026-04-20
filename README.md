@@ -84,3 +84,8 @@
     </tr>
   </tbody>
 </table>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=clouem&show_icons=true&locale=en&layout=compact" alt="clouem" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=clouem&show_icons=true&locale=en" alt="clouem" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clouem&" alt="clouem" /></p>
