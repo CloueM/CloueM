@@ -68,17 +68,9 @@ I am a BCIT graduate with a dual background in **Computer Information Technology
 - **React** patterns and State Management.
 
 ### Connect with me:
-<p align="left">
-<a href="mailto:hello@kurowii.com">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
-</a>
-<a href="https://www.linkedin.com/in/cloue-macadangdang/" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://kurowii.com/" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="Website" height="30" width="40" />
-</a>
-</p>
+- **Email:** [hello@kurowii.com](mailto:hello@kurowii.com)
+- **LinkedIn:** [Cloue Macadangdang](https://www.linkedin.com/in/cloue-macadangdang/)
+- **Website:** [kurowii.com](https://kurowii.com/)
 
 <br />
 
