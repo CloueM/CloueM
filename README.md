@@ -80,5 +80,5 @@ I am a BCIT graduate with a dual background in **Computer Information Technology
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clouem&layout=compact&theme=vue-dark&hide_border=true" alt="clouem top langs" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=clouem&theme=vue-dark&hide_border=true" alt="clouem streak" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CloueM&theme=dark" alt="GitHub Streak" /></a>
 </p>
